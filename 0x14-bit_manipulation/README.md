@@ -1,1 +1,1 @@
-bit_manipulation
+Bit manipulation project
