@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "berry.h"
+#include "main.h"
 
 /**
  * main - check the code for Holberton School students.
