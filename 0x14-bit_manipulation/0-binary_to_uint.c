@@ -28,3 +28,5 @@ ssize_t read_textfile(const char *filename, size_t letters)
         close(cont);
 
         return ((numb_w == -1 || numb_w != numb_r) ? 0 : numb_w);
+}
+
